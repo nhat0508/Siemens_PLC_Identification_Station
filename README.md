@@ -46,8 +46,9 @@ The control logic is developed on **Siemens S7-1200 PLC** and visualized via **S
 
 ## 🚀 How to Run
 1.  Open **TIA Portal V18**.
-2.  Retrieve the archived project file from the `PLC_Code` folder.
-3.  Simulate with **PLCSIM** or download to hardware.
+2.  Retrieve the archived project file from the `Identification Station' folder.
+3. Extract the"FB_library_AE23_IEPIP24.7z" and put it in the same folder with `Identification Station' folder.
+4.  Simulate with **PLCSIM** or download to hardware.
 4.  Use the HMI to perform the **Reference Run** (Home position) before starting **Auto Mode**.
 
 ---
