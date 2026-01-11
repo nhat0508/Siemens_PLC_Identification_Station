@@ -40,7 +40,7 @@ The control logic is developed on **Siemens S7-1200 PLC** and visualized via **S
 * **Hardware:** Vacuum Suction Cup, Pneumatic Cylinders, Linear Axis Motor
 
 ## 📂 Project Structure
-* `/PLC_Code`: Archived TIA Portal project file (`.ap18`).
+* `/Identification Station`: Archived TIA Portal project file (`.ap18`).
 * `/Docs`: I/O Lists and Functional Descriptions.
 * `/HMI_Screens`: User interface designs for Manual/Auto modes.
 
