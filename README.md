@@ -13,15 +13,6 @@ The control logic is developed on **Siemens S7-1200 PLC** and visualized via **S
 
 ---
 
-## 🎥 Demo
-*(Click the image below to watch the full operation video)*
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
-> *Note: This system demonstrates the "Reference Run" sequence and Automatic sorting cycle.*
-
----
-
 ## ⚙️ Key Features
 * **Multi-Sensor Fusion:** Integrates three different sensor types to classify incoming products:
     * **Inductive Sensor:** Detects metallic components.
