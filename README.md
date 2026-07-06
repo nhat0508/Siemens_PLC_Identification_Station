@@ -9,7 +9,7 @@
 ## 📖 Introduction
 This project simulates an industrial Quality Control (QC) station. It utilizes a linear manipulator equipped with a vacuum gripper to identify, classify, and sort workpieces based on their material properties (Metal vs. Non-metal vs. Raw material).
 
-The control logic is developed on **Siemens S7-1200 PLC** and visualized via **SIMATIC HMI**, demonstrating advanced sensor integration and error handling capabilities.
+The control logic is developed on **Siemens S7-1500 PLC** and visualized via **SIMATIC HMI**, demonstrating advanced sensor integration and error handling capabilities.
 
 ---
 
