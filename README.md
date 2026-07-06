@@ -1,7 +1,7 @@
 # Siemens_PLC_Identification_Station
 "Automated Pick-and-Place &amp; Identification Station using Siemens PLC. Features Multi-sensor Classification, Shift Register Logic, and Advanced Alarm Handling."
 
-# Identification & Pick-and-Place Station 🤖
+# Identification & Pick-and-Place Station 
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-Siemens_TIA_Portal_V18-blue)
@@ -24,7 +24,7 @@ The control logic is developed on **Siemens S7-1200 PLC** and visualized via **S
 * **Modular Code Structure:** Logic is organized into reusable **Function Blocks (FBs)** (e.g., `Motor_Control`, `Sensor_Processing`) following IEC 61131-3 standards.
 
 ## 🛠️ Technology Stack
-* **PLC:** Siemens S7-1200 CPU
+* **PLC:** Siemens S7-1500 CPU
 * **HMI:** SIMATIC TP700 Comfort / KTP700 Basic
 * **Software:** TIA Portal V18
 * **Languages:** Function Block Diagram (FBD), Structured Control Language (SCL)
